@@ -1,2 +1,2 @@
 # Automotive-Software
-Public Repo that simulate an Automotive Software
+Public Repo that simulates an Automotive Software
